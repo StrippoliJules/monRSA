@@ -1,14 +1,14 @@
-Prérequis :
-Python 3
+## Prérequis :
+- Python 3
 
-Générer des clés RSA :
-monRSA.py keygen
+## Générer des clés RSA :
+- monRSA.py keygen
 
-Chiffrer un message : 
-onRSA.py crypt monRSA.pub "bonjour"
+## Chiffrer un message : 
+- onRSA.py crypt monRSA.pub "bonjour"
 
-Déchiffrer un message
-monRSA.py decrypt monRSA.priv "texte_chiffré"
+## Déchiffrer un message
+- monRSA.py decrypt monRSA.priv "texte_chiffré"
 
-Aide
-monRSA.py help
+## Aide
+- monRSA.py help
